@@ -4,7 +4,7 @@
   "description": "",
   "main": "server/server.js",
   "enginers": {
-    "node" : "14.17.6"
+    "node": "14.17.6"
   },
   "scripts": {
     "start": "node server/server.js",
@@ -18,5 +18,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
   }
 }
