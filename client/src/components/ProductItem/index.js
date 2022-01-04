@@ -8,6 +8,8 @@ import { useDispatch, useSelector } from "react-redux";
 
 function ProductItem(item) {
   // const [state, dispatch] = useStoreContext();
+  const state = useSelector((state) => state);
+  const dispatch = useDispatch();
 
   const {
     image,

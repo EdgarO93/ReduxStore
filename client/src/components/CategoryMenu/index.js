@@ -11,6 +11,8 @@ import { useDispatch, useSelector } from "react-redux";
 
 function CategoryMenu() {
   // const [state, dispatch] = useStoreContext();
+  const state = useSelector((state) => state);
+  const dispatch = useDispatch();
 
   const { categories } = state;
 
