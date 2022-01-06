@@ -6,7 +6,7 @@ Link to deployed site on Heroku: https://buyshop.herokuapp.com/
 
 
 ## Description
-Coming soon!
+This MERN stack e-commerce store was refactored to use Redux to manage the global state instead of the Context API. This site allows user to shop for different categories of items. If no account exists then they can sign-up and add items to their cart. Users are also able to view ther order history. The site uses a Stripe API to test checkout items. In the future, I would like to add different items and change the format. 
 
 ## Table of Contents
 - [Installation](#installation)
