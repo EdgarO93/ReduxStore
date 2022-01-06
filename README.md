@@ -31,13 +31,12 @@ Feel free to fork or clone this repo and make your own versions.
 
 ### Desktop view
 
-
-![plot](#)
+![plot](assets/images/shopdesktop.png)
 
 
 ### Mobile View
 
-
+![plot](assets/images/shopmobile.png)
 
 
 ### Questions
