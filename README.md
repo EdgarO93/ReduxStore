@@ -21,7 +21,7 @@ Coming soon!
 After downloading this repository, go into the folder of this project. Then run npm install or i. 
 
 ### Usage
-Make sure to have MongoDB installed. Then you can run npm start to run the application and create a production build. You can also use a program such as ROBO 3T to view the MongoDB collection. You can also visit the Heroku link above to see the deployed site. 
+Make sure to have MongoDB installed. Then you can run npm develop to run the application and create a production build. Use npm run seed to add the store products and user profile. You can also use a program such as ROBO 3T to view the MongoDB collection. You can also visit the Heroku link above to see the deployed site. 
 
 ### Contributing
 Feel free to fork or clone this repo and make your own versions.
